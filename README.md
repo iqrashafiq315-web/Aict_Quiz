@@ -14,7 +14,7 @@ A simple AI-style quiz generator built using Python and Streamlit without any ex
 
 ---
 
-## Tech Used
+## Technology Used
 - Python
 - Streamlit
 - Random module
@@ -26,3 +26,8 @@ A simple AI-style quiz generator built using Python and Streamlit without any ex
 
 ```bash
 streamlit run app.py
+
+---
+
+## Live App
+[Click here to open my app](https://aictquiz-ep5eb8b9pfic6w4axycjfa.streamlit.app/)

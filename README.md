@@ -29,5 +29,6 @@ streamlit run app.py
 
 ---
 
-## Live App
-[Click here to open my app](https://aictquiz-ep5eb8b9pfic6w4axycjfa.streamlit.app/)
+## Live Demo
+
+[Click here to open the app](https://aictquiz-ep5eb8b9pfic6w4axycjfa.streamlit.app/)

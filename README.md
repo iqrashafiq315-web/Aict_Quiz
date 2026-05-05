@@ -23,12 +23,9 @@ A simple AI-style quiz generator built using Python and Streamlit without any ex
 ---
 
 ## Run Locally
-
-```bash
 streamlit run app.py
 
 ---
 
 ## Live Demo
-
 [Click here to open the app](https://aictquiz-ep5eb8b9pfic6w4axycjfa.streamlit.app/)
